@@ -32,7 +32,7 @@ This is a simple Space Invader game developed in Python using the Pygame library
 ``` bash
 git clone https://github.com/adityaK1950/Space-Invader-Game-in-Python
 ```
-or direct download the [zip file]()
+or direct download the [zip file](https://github.com/adityaK1950/Space-Invader-Game-in-Python)
 
 
 2. Navigate to the project directory:
